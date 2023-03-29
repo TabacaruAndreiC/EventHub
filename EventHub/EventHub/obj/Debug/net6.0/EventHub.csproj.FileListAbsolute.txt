@@ -1,0 +1,6 @@
+D:\An2\sem2\.NET\EventHub\EventHub\obj\Debug\net6.0\EventHub.csproj.AssemblyReference.cache
+D:\An2\sem2\.NET\EventHub\EventHub\obj\Debug\net6.0\EventHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\An2\sem2\.NET\EventHub\EventHub\obj\Debug\net6.0\EventHub.AssemblyInfoInputs.cache
+D:\An2\sem2\.NET\EventHub\EventHub\obj\Debug\net6.0\EventHub.AssemblyInfo.cs
+D:\An2\sem2\.NET\EventHub\EventHub\obj\Debug\net6.0\EventHub.csproj.CoreCompileInputs.cache
+D:\An2\sem2\.NET\EventHub\EventHub\obj\Debug\net6.0\EventHub.MvcApplicationPartsAssemblyInfo.cache

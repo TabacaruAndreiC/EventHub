@@ -1,0 +1,5 @@
+D:\An2\sem2\.NET\EventHub\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+D:\An2\sem2\.NET\EventHub\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\An2\sem2\.NET\EventHub\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+D:\An2\sem2\.NET\EventHub\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+D:\An2\sem2\.NET\EventHub\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
