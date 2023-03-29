@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8btCxocQBh6Y8AtS+tHrKWju26+VdOO0sLzkeRcagjkCnIEHl54LIh+m+qoQTRDyjq3GCHbjgUDdXyHsUuPSsQ==",
+  "dgSpecHash": "IrkuDxaaIPPYHhDJsh95mCnWq8UbcSGPg3qqcq60v+74gIpjoahV1izdjghuuWPX1aWn2N+ija7qtVgIvsS7Mg==",
   "success": true,
-  "projectFilePath": "D:\\An2\\sem2\\.NET\\EventHub\\Core\\Core.csproj",
+  "projectFilePath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

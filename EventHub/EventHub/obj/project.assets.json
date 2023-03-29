@@ -265,11 +265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\An2\\sem2\\.NET\\EventHub\\EventHub\\EventHub.csproj",
+      "projectUniqueName": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\EventHub\\EventHub.csproj",
       "projectName": "EventHub",
-      "projectPath": "D:\\An2\\sem2\\.NET\\EventHub\\EventHub\\EventHub.csproj",
+      "projectPath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\EventHub\\EventHub.csproj",
       "packagesPath": "C:\\Users\\Andrei Tabacaru\\.nuget\\packages\\",
-      "outputPath": "D:\\An2\\sem2\\.NET\\EventHub\\EventHub\\obj\\",
+      "outputPath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\EventHub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -292,8 +292,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\An2\\sem2\\.NET\\EventHub\\Core\\Core.csproj": {
-              "projectPath": "D:\\An2\\sem2\\.NET\\EventHub\\Core\\Core.csproj"
+            "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\Core\\Core.csproj": {
+              "projectPath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\Core\\Core.csproj"
             }
           }
         }

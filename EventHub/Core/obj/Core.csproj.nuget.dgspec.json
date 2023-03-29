@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\An2\\sem2\\.NET\\EventHub\\Core\\Core.csproj": {}
+    "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\An2\\sem2\\.NET\\EventHub\\Core\\Core.csproj": {
+    "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\An2\\sem2\\.NET\\EventHub\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\An2\\sem2\\.NET\\EventHub\\Core\\Core.csproj",
+        "projectPath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Andrei Tabacaru\\.nuget\\packages\\",
-        "outputPath": "D:\\An2\\sem2\\.NET\\EventHub\\Core\\obj\\",
+        "outputPath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\An2\\sem2\\.NET\\EventHub\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "D:\\An2\\sem2\\.NET\\EventHub\\DataLayer\\DataLayer.csproj"
+              "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\DataLayer\\DataLayer.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\An2\\sem2\\.NET\\EventHub\\DataLayer\\DataLayer.csproj": {
+    "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\An2\\sem2\\.NET\\EventHub\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "D:\\An2\\sem2\\.NET\\EventHub\\DataLayer\\DataLayer.csproj",
+        "projectPath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\Andrei Tabacaru\\.nuget\\packages\\",
-        "outputPath": "D:\\An2\\sem2\\.NET\\EventHub\\DataLayer\\obj\\",
+        "outputPath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

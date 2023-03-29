@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5d9R3ukLU0AFCZpkrm1k4HNUZ227b3wEokex7R3l/F3w8nt5saFhIHTpE7tFFGJhhkNvFwYVrsBDKmp3Ww5Wg==",
+  "dgSpecHash": "VF72SPG2SZPf6I3f+aZA972dv3lqA9rev2IGXnsHRpmpr6lSbqFat1JEU4UnVV651ZGjVRD8SVmRnbYvDkaoBw==",
   "success": true,
-  "projectFilePath": "D:\\An2\\sem2\\.NET\\EventHub\\TestDrive\\TestDrive.csproj",
+  "projectFilePath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\TestDrive\\TestDrive.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

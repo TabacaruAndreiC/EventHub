@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\An2\\sem2\\.NET\\EventHub\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "D:\\An2\\sem2\\.NET\\EventHub\\DataLayer\\DataLayer.csproj",
+      "projectPath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\DataLayer\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\Andrei Tabacaru\\.nuget\\packages\\",
-      "outputPath": "D:\\An2\\sem2\\.NET\\EventHub\\DataLayer\\obj\\",
+      "outputPath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -3,3 +3,8 @@ D:\An2\sem2\.NET\EventHub\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfi
 D:\An2\sem2\.NET\EventHub\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
 D:\An2\sem2\.NET\EventHub\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
 D:\An2\sem2\.NET\EventHub\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\An2\sem2\.NET\EventHubGit\EventHub\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\An2\sem2\.NET\EventHubGit\EventHub\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\An2\sem2\.NET\EventHubGit\EventHub\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\An2\sem2\.NET\EventHubGit\EventHub\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\An2\sem2\.NET\EventHubGit\EventHub\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache

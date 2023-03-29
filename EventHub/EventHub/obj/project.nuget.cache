@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d5gaMPNDwZgeiMAlTnlVpJTQ2Lx2rMGV8y4OHk7pErmaN3JGdgCu5Fz25yNYPcBbCkniLr8VK7/8iblXhof48g==",
+  "dgSpecHash": "KjRkwVUFEC4QAJJqEBRSD2vImaJOZdkDrk3dCcLjlu5YYevg+7u7oaBCmC7kSeiWZtdCU4bGZZ6ndShTaEsjNA==",
   "success": true,
-  "projectFilePath": "D:\\An2\\sem2\\.NET\\EventHub\\EventHub\\EventHub.csproj",
+  "projectFilePath": "D:\\An2\\sem2\\.NET\\EventHubGit\\EventHub\\EventHub\\EventHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrei Tabacaru\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Andrei Tabacaru\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
